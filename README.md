@@ -1,4 +1,4 @@
-# Fundamentos da Programação Moderno com Kotlin ⭐
+# Fundamentos da Programação Moderna com Kotlin ⭐
 
 Repositório com estudos complementares em Kotlin.
 Acompanhe meu progresso!
