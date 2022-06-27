@@ -3,6 +3,6 @@
 Repositório com estudos complementares em Kotlin.
 Acompanhe meu progresso!
 
-Plataforma Udemy
-Coder Cursos
-IDEA Intellij
+<p>Plataforma Udemy</p>
+<p>Coder Cursos</p>
+<p>IDEA Intellij</p>
